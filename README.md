@@ -51,6 +51,10 @@
    ```sh 
    "wpackagist-plugin/fakerpress":"^0.6.6"
    ```
+10. UpdraftPlus
+   ```sh 
+   "wpackagist-plugin/updraftplus": "^1.25.1"
+   ```
 
 ### Added CodeSniffer WordPress coding standard:
    Linux
